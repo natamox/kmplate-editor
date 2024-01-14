@@ -39,3 +39,4 @@ $ yarn run doctor
 
 MIT
 # kmplate-editor
+# kmplate-editor
